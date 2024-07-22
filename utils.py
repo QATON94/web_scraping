@@ -4,39 +4,43 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def get_response_product(url):
+def get_response_product(url: str) -> dict[str, str | None]:
+    """
+    Функция делает запрос по url продукта
+    :param url:
+    :return: список: описание, способ применения, состав, адрес
+    """
     response = requests.get(url)
     data = response.text
     data = BeautifulSoup(data, 'html.parser')
-
+    product = {'description': '', 'applications': '', 'compound': '', 'address': ''}
     # Описание товара
-    description_html = data.find_all(itemprop="description")
-    description_html = str(description_html).replace('\n', ' ')
-    description_html = str(description_html).replace('<br/>', '')
-    print('-----------------------------------')
-    print(description_html)
+    description_html = str(data.find_all(itemprop="description"))
+    description_html = description_html.replace('\n', ' ')
+    description_html = description_html.replace('<br/>', '')
     description = get_description(description_html)
-    print('-----------------------------------')
-    print(description)
 
-    # Название бренда и страны
-    brand_html = data.find_all(value=[re.compile('^Brand')])
-    brand_data = get_brand(brand_html)
-    brand = brand_data[0]
-    side = brand_data[1]
+    # Text_? Способ применения, Состав, О бренде, страна происхождения и адрес
 
-    # Text_1 Способ применения
-    # Text_2 Состав
-    # Text_3 Способ применения
-    # Text_4 Страна происхождения и адрес
+    instructions = str(data.find_all(value=[re.compile('^Text')]))
+    instructions = instructions.replace('\n', ' ')
+    instructions = instructions.replace('<br/>', ' ')
+    # print(instructions)
+    text = get_text(instructions)
 
-    application = data.find_all(value=[re.compile('^Text')])
-    text = get_text(application)
-    return description
+    product['description'] = description
+    product['instructions'] = text['применение']
+    product['compound'] = text['состав']
+    product['country'] = text['страна происхождения']
+
+    return product
 
 
-def get_description(description):
-    soup = re.findall('\"description\">(.*)</div>|\n', str(description))
+def get_description(description: str) -> str:
+    """
+    Получает описание продукта из строки
+    """
+    soup = re.findall('\"description\">(.*)</div>|\n', description)
     data = ''
     for i in soup:
         for j in i:
@@ -45,33 +49,23 @@ def get_description(description):
     return data
 
 
-def get_brand(brand):
-    soup = re.findall('>\n?(.*)<br/>?<br/>|\n?(.*)</div>|\n(.*)<br/>?<br/>|\n(.*?)\n', str(brand))
-    data = []
-    for i in soup:
-        for j in i:
-            word = re.findall('\w.*', j)
-            if word:
-                data.append(word[0])
-    return data
-
-
-def get_text(text_html):
-    soup = re.findall('(Text_[1-5])|class=\"\w*\">(.*?)</div>', str(text_html))
+def get_text(text_html: str) -> dict[str, str | None]:
+    """
+    Получает применение, состав, страну происхождения из строки
+    """
+    soup = re.findall('(состав)\" value=\"Text_[1-5]\"><!-- --> <!-- --> <div class=\"\w*\">(.*?)</div>|'
+                      '(страна происхождения) (\w*? ? \w*) (изготовитель)?(</div>)?|'
+                      '(применение)\" value=\"Text_[1-5]\"><!-- --> <!-- --> <div class=\"\w*\">(.*?)</div>',
+                      text_html)
     # print(soup)
-    data = {}
-    key = ''
-    value = ''
+    data = {"применение": None, "состав": None, "страна происхождения": None}
+
     for i in soup:
-        for j in i:
-            # print(j)
-            # print(re.findall('(Text_[1-5])', j))
-            if "Text_" in j:
-                key = j
-                # print('key=', j)
-            elif not "Text_" in j and j != '':
-                value = j
-                # print('value=', value)
-            if key != '' and value != "":
-                data[key] = value
+        for j in range(len(i)):
+            if "применение" in i[j]:
+                data[i[j]] = i[j + 1]
+            elif "состав" in i[j]:
+                data[i[j]] = i[j + 1]
+            elif "страна происхождения" in i[j]:
+                data[i[j]] = i[j + 1]
     return data
