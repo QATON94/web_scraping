@@ -2,6 +2,8 @@ from pprint import pprint
 
 import requests
 
+from utils import get_response_product
+
 url = 'https://goldapple.ru/front/api/catalog/products?categoryId=1000000007&cityId=dd8caeab-c685-4f2a-bf5f-550aca1bbc48&pageNumber=1'
 
 headers = {
@@ -21,15 +23,17 @@ response = requests.get(url, headers=headers)
 # pprint(response.json())
 data_json = response.json()
 data = data_json['data']['products']
-pprint(data[0])
+# pprint(data[0])
 for item in data:
-    print(item)
+    pprint(item)
     print('---------------------------------------------------------------------------------')
     url = f'https://goldapple.ru{item["url"]}'
     name = item['name']
     brand = item['brand']
     price = item['price']['actual']['amount']
-    rating = item['reviews']['rating']
-    description = 'description'
+    rating = item['reviews']['rating'] if item.get('reviews') else None
+    print(rating)
+    description = get_response_product(url)
+    print(description)
     instructions = 'instructions'
-    country = item['country']
+    country = 'country'
