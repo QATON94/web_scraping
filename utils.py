@@ -1,7 +1,10 @@
+import csv
 import re
 
 import requests
 from bs4 import BeautifulSoup
+
+from services import Perfumery
 
 
 def get_response_product(url: str) -> dict[str, str | None]:
@@ -69,3 +72,14 @@ def get_text(text_html: str) -> dict[str, str | None]:
             elif "страна происхождения" in i[j]:
                 data[i[j]] = i[j + 1]
     return data
+
+
+def save_csv(data: list[Perfumery]) -> None:
+    head = ['url', 'brand', 'price', 'rating', 'description', 'instructions', 'compound', 'country']
+    with open('data.csv', 'w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=head, delimiter=';')
+        writer.writeheader()
+        for row in data:
+            writer.writerow({'url': row.url, 'brand': row.brand, 'price': row.price, 'rating': row.rating,
+                             'description': row.description, 'instructions': row.instructions, 'compound': row.compound,
+                             'country': row.country})

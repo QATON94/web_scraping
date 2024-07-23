@@ -13,4 +13,13 @@ class Perfumery:
         self.country = country
 
     def __str__(self):
-        return self.name
+        return self.url
+
+    def __getstate__(self) -> dict:
+        state = self.__dict__.copy()
+        return state
+
+    def __setstate__(self, state):
+        self.__dict__.update(state)
+        self.__init__(**state)
+        return self
