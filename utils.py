@@ -75,11 +75,11 @@ def get_text(text_html: str) -> dict[str, str | None]:
 
 
 def save_csv(data: list[Perfumery]) -> None:
-    head = ['url', 'brand', 'price', 'rating', 'description', 'instructions', 'compound', 'country']
+    head = ['url', 'name', 'brand', 'price', 'rating', 'description', 'instructions', 'compound', 'country']
     with open('data.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=head, delimiter=';')
         writer.writeheader()
         for row in data:
-            writer.writerow({'url': row.url, 'brand': row.brand, 'price': row.price, 'rating': row.rating,
+            writer.writerow({'url': row.url, 'name': row.name, 'brand': row.brand, 'price': row.price, 'rating': row.rating,
                              'description': row.description, 'instructions': row.instructions, 'compound': row.compound,
                              'country': row.country})

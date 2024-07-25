@@ -14,22 +14,22 @@ def get_response_products():
     count_product = 1
     check = ''
     data_perfumery = []
-    while count <= 1 and check == '':
+    while check == '':
         url = url_head + str(count)
         response = requests.get(url, headers=headers)
         value = random.random()
         scaled_value = 1 + (value * (9 - 5))
         print(scaled_value)
         time.sleep(scaled_value)
-        pprint(response.json())
+        # pprint(response.json())
         data_json = response.json()
-        if data_json['data']['count'] == 0:
+        if not data_json['data']['products']:
             print('No products')
             check = 'no products'
 
         data = data_json['data']['products']
         # pprint(data[0])
-
+        pause = 1
         for item in data:
             # pprint(item)
 
@@ -42,8 +42,8 @@ def get_response_products():
                     url=url,
                     name=item['name'],
                     brand=item['brand'],
-                    price=item['price']['actual']['amount'],
-                    rating=item['reviews']['rating'] if item.get('reviews') else None,
+                    price=str(item['price']['actual']['amount']),
+                    rating=str(item['reviews']['rating']) if item.get('reviews') else None,
                     description=product['description'],
                     instructions=product['instructions'],
                     compound=product['compound'],
@@ -62,5 +62,13 @@ def get_response_products():
                 data_perfumery.append(perfume)
             except Exception as e:
                 print(e)
+            finally:
+                if pause == 12:
+                    value = random.random()
+                    scaled_value = 1 + (value * (9 - 5))
+                    print(scaled_value)
+                    time.sleep(scaled_value)
+                pause = pause + 1
         count = count + 1
+
     return data_perfumery
