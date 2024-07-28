@@ -1,0 +1,2637 @@
+{
+  "products": [
+    {
+      "price": {
+        "regular": {
+          "amount": 11200,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 11200,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000107891",
+      "mainVariantItemId": "19000107891",
+      "name": "Aqua Allegoria Mandarine Basilic",
+      "productType": "Туалетная вода",
+      "type": "Product",
+      "brand": "Guerlain",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000107891/web/696d674d61696e8dc83ebf1abd9f8${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "75"
+          ],
+          "currentUnitValue": "75",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "gift",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f67696674/6c6162656c3634663162303637636332393235363865373235643731628dbaacecb22a2bc.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "hit",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000107891-aqua-allegoria-mandarine-basilic",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "disclaimer": {
+        "legalEntity": [
+          "ООО Екатеринбург Яблоко ИНН 6670381056"
+        ],
+        "erid": "2VSb5yQqpik",
+        "label": "black"
+      },
+      "reviews": {
+        "rating": 4.8,
+        "reviewsCount": 36
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 12510,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 12510,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000247238",
+      "mainVariantItemId": "19000247238",
+      "name": "irresistible very floral",
+      "productType": "Парфюмерная вода",
+      "type": "Product",
+      "brand": "Givenchy ",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000247238/web/696d674d61696e5f38626432336233653031353334393734616563343661303763666533336234628dc83d86c6d97dd${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "35",
+            "50",
+            "80"
+          ],
+          "currentUnitValue": "50",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000247238-irresistible-very-floral",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "disclaimer": {
+        "legalEntity": [
+          "ООО Екатеринбург Яблоко ИНН 6670381056"
+        ],
+        "erid": "2VSb5xkJ9Pn",
+        "label": "black"
+      },
+      "reviews": {
+        "rating": 4.2,
+        "reviewsCount": 4
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 11500,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 6900,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 40
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 11500,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 6900,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000120321",
+      "mainVariantItemId": "19000120321",
+      "name": "CERISE",
+      "productType": "Парфюмированная вода ",
+      "type": "Product",
+      "brand": "Ajmal",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000120321/web/696d674d61696e8dc83a954e2974d${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "75"
+          ],
+          "currentUnitValue": "75",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "40%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000120321-cerise",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "disclaimer": {
+        "legalEntity": [
+          "ООО Екатеринбург Яблоко ИНН 6670381056"
+        ],
+        "erid": "2VSb5yhMnEU",
+        "label": "black"
+      },
+      "reviews": {
+        "rating": 5,
+        "reviewsCount": 1
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 5600,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 2800,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 50
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 5600,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 2800,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000178402",
+      "mainVariantItemId": "19000178402",
+      "name": "FLEUR de la CRÈME",
+      "productType": "Парфюмерная вода",
+      "type": "Product",
+      "brand": "Ynepsie",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178402/web/696d674d61696e8dc83ffa7470899${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178402/web/696d67416464318dc83ffa74a83a2${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178402/web/696d67416464328dc83ffa7426660${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178402/web/696d67416464338dc83ffa74261a9${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "50"
+          ],
+          "currentUnitValue": "50",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "50%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000178402-fleur-de-la-creme",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.2,
+        "reviewsCount": 6
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 2200,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 2200,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000004553",
+      "mainVariantItemId": "19000004553",
+      "name": "Black Pepper, Vetiver, Neroli, Amber",
+      "productType": "Духи концентрированные",
+      "type": "Product",
+      "brand": "Zielinski & Rozen",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000004553/web/696d674d61696e5f33336264323330323636303634623561626563376361636139613939623036648dc951d9b6fcd8e${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "10"
+          ],
+          "currentUnitValue": "10",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000004553-black-pepper-amber-neroli",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.7,
+        "reviewsCount": 417
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 12410,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 8066,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 35
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 12410,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 8066,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "83670200004",
+      "mainVariantItemId": "83670200004",
+      "name": "L'Ame Slave",
+      "productType": "Набор для путешествий",
+      "type": "Product",
+      "brand": "State Of Mind",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83670200004/web/696d674d61696e8dc83b7cdcf2e74${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83670200004/web/696d67416464318dc83b7cdceb791${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83670200004/web/696d67416464328dc83b7cdceb336${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83670200004/web/696d67416464338dc83b7cded6211${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "40"
+          ],
+          "currentUnitValue": "40",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "35%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/83670200004-l-ame-slave",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4,
+        "reviewsCount": 2
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 2810,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 2107,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 25
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 2810,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 2107,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "83800100002",
+      "mainVariantItemId": "83800100002",
+      "name": "NICE BERGAMOTE ",
+      "productType": "Парфюмерная вода",
+      "type": "Product",
+      "brand": "ESSENTIAL PARFUMS PARIS",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83800100002/web/696d674d61696e5f38646238303739373161396234626561613362303366363764666562386634638dc895e3b0110dd${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83800100002/web/696d67416464315f65373139653738346139333434306637383434663434316332323139353966338dc895e3f3c888e${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83800100002/web/696d67416464325f62396637653338343130623634353461626230383832373831653235643630358dc895e47c7081e${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/83800100002/web/696d67416464335f37333462633635383337346534373038626332643338646335366132323463648dc895e426c739f${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "10"
+          ],
+          "currentUnitValue": "10",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "25%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/83800100002-aris-nice-bergamote",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.5,
+        "reviewsCount": 137
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 6130,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 4597,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 25
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 4597,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "19000131299",
+      "mainVariantItemId": "19000131327",
+      "name": "Alpine Vin Brulé",
+      "productType": "Свеча ароматическая",
+      "type": "Product",
+      "brand": "Vellutier",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000131299/web/696d674d61696e8dc83ee3967c803${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "90",
+            "225",
+            "515"
+          ],
+          "currentUnitValue": "515",
+          "name": "г"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000131299-alpine-vin-brule",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 12690,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 8883,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 30
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 12690,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 8883,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "7430600003",
+      "mainVariantItemId": "7430600002",
+      "name": "Bright Crystal",
+      "productType": "Туалетная вода ",
+      "type": "Product",
+      "brand": "Versace",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430600003/web/696d674d61696e8dc83af067b9d47${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430600003/web/696d67416464318dc83af067da8c1${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430600003/web/696d67416464328dc83af068e383c${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430600003/web/696d67416464338dc83af06959b38${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "30",
+            "50",
+            "90"
+          ],
+          "currentUnitValue": "90",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "30%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/7430600003-bright-crystal",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.7,
+        "reviewsCount": 199
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 2200,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 2200,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000004549",
+      "mainVariantItemId": "19000004549",
+      "name": "Black vanilla",
+      "productType": "Духи концентрированные",
+      "type": "Product",
+      "brand": "Zielinski & Rozen",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000004549/web/696d674d61696e5f65353466653138383738373534643962393338656432623838323266346361388dcae33b59afe6e${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000004549/web/696d67416464315f39653034643065326365373634316466613661643334373333316137363866638dcae33b9ad2d0b${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000004549/web/696d67416464325f65653939646263396464303234376436616261323565666333366333656462618dcae33bc60b754${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000004549/web/696d67416464335f35323933643539306162373434623237616362323565373731386531326530308dcae33bf28bbf0${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "10"
+          ],
+          "currentUnitValue": "10",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000004549-perfume-vanilla-blend",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.6,
+        "reviewsCount": 451
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 12910,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 9682,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 25
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 12910,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 9682,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000150181",
+      "mainVariantItemId": "19000150181",
+      "name": "Rayon Vert",
+      "productType": "Парфюмерная вода ",
+      "type": "Product",
+      "brand": "BASTILLE",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000150181/web/696d674d61696e8dc8405c091d63d${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000150181/web/696d67416464318dc8405c093b06b${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000150181/web/696d67416464328dc8405c09fdcb5${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000150181/web/696d67416464338dc8405c0c0f216${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 2,
+          "values": [
+            "50",
+            "100"
+          ],
+          "currentUnitValue": "100",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "25%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000150181-rayon-vert",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 3.5,
+        "reviewsCount": 4
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 10790,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 10790,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "7274500003",
+      "mainVariantItemId": "7274500002",
+      "name": "AQUA KENZO POUR HOMME",
+      "productType": "Туалетная вода",
+      "type": "Product",
+      "brand": "Kenzo",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7274500003/web/696d674d61696e8dc83b5ce4486f8${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7274500003/web/696d67416464318dc83b5ce3a92cd${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7274500003/web/696d67416464328dc83b5ce3dbcd6${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7274500003/web/696d67416464338dc83b5ce394bfb${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7274500003/web/696d67416464348dc83b5ce3d03b1${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "30",
+            "50",
+            "100"
+          ],
+          "currentUnitValue": "100",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "hit",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/7274500003-aqua-kenzo-pour-homme",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 5,
+        "reviewsCount": 8
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 6130,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 4597,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 25
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 4597,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "19000131320",
+      "mainVariantItemId": "19000131348",
+      "name": "Succulent Pink Grapefruit",
+      "productType": "Свеча ароматическая",
+      "type": "Product",
+      "brand": "Vellutier",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000131320/web/696d674d61696e8dc83ee3e9ff7d2${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "90",
+            "225",
+            "515"
+          ],
+          "currentUnitValue": "515",
+          "name": "г"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000131320-succulent-pink-grapefruit",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 13500,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 10125,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 25
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 10125,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "7430300001",
+      "mainVariantItemId": "7430300004",
+      "name": "Crystal Noir",
+      "productType": "Парфюмерная вода",
+      "type": "Product",
+      "brand": "Versace",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430300001/web/696d674d61696e8dc83c0d2a858e9${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430300001/web/696d67416464318dc83c0d2a4b5c5${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430300001/web/696d67416464328dc83c0d2a763f0${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7430300001/web/696d67416464338dc83c0d2e8dc2a${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "30",
+            "50",
+            "90"
+          ],
+          "currentUnitValue": "90",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/7430300001-crystal-noir",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.8,
+        "reviewsCount": 71
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 1290,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 516,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 60
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 1290,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 516,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000167813",
+      "mainVariantItemId": "19000167813",
+      "name": "OULANKA Hand Cream",
+      "productType": "Парфюмированный крем для рук",
+      "type": "Product",
+      "brand": "raconteur",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000167813/web/696d674d61696e8dc83fd49f9c27f${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000167813/web/696d67416464318dc83fd49ebf6b5${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000167813/web/696d67416464328dc83fd49fae2ad${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000167813/web/696d67416464338dc83fd49e34d2a${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "50"
+          ],
+          "currentUnitValue": "50",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "60%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000167813-oulanka-hand-cream",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 5,
+        "reviewsCount": 3
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 13240,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 9268,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 30
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 13240,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 9268,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "7440100004",
+      "mainVariantItemId": "7180100002",
+      "name": "212",
+      "productType": "Туалетная вода",
+      "type": "Product",
+      "brand": "Carolina Herrera",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7440100004/web/696d674d61696e8dc83ae56134ae4${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7440100004/web/696d67416464318dc83ae56134e08${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7440100004/web/696d67416464328dc83ae5621409d${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/7440100004/web/696d67416464338dc83ae56130269${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "30",
+            "60",
+            "100"
+          ],
+          "currentUnitValue": "100",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "30%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        },
+        {
+          "id": "hit",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/7440100004-212",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.3,
+        "reviewsCount": 7
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 21180,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 18003,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 15
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 18003,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "26144300001",
+      "mainVariantItemId": "26144300001",
+      "name": "VINYL",
+      "productType": "Парфюмерная вода ",
+      "type": "Product",
+      "brand": "FRANCK BOCLET",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/26144300001/web/696d674d61696e8dc83c3bc584e2f${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/26144300001/web/696d67416464318dc83c3bc607628${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/26144300001/web/696d67416464328dc83c3bc5d9dd4${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/26144300001/web/696d67416464338dc83c3bc5f8d45${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "100"
+          ],
+          "currentUnitValue": "100",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/26144300001-vinyl",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 5,
+        "reviewsCount": 3
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 3140,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 2355,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 25
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 2355,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "19000076312",
+      "mainVariantItemId": "19000076328",
+      "name": "NOMAD",
+      "productType": "Ароматическая свеча",
+      "type": "Product",
+      "brand": "IMMERSE",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000076312/web/696d674d61696e8dc83e30101e84f${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000076312/web/696d67416464318dc83e301041961${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000076312/web/696d67416464328dc83e3010d04c5${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000076312/web/696d67416464338dc83e30116ee4b${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 2,
+          "values": [
+            "110",
+            "240"
+          ],
+          "currentUnitValue": "240",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000076312-nomad",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 1399,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 1399,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000195374",
+      "mainVariantItemId": "19000195373",
+      "name": "rattan 22 cm, 5 mm",
+      "productType": "Палочки для ароматического диффузора",
+      "type": "Product",
+      "brand": "VENEW",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000195374/web/696d674d61696e5f30383364313865303065386134313339393330623430313762373932396166358dc9c287053be49${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000195374/web/696d67416464315f62383637383232323537336434633932626230323635323864333239623362658dc9c28737729af${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "10",
+            "30",
+            "50"
+          ],
+          "currentUnitValue": "50",
+          "name": "шт"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000195374-rattan-22-cm-5-mm",
+      "configurable": "True",
+      "needOnlineConsultation": "False"
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 3700,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 3330,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 10
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 3330,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "19000125894",
+      "mainVariantItemId": "19000125894",
+      "name": "My Mantra",
+      "productType": "Ароматический диффузор ",
+      "type": "Product",
+      "brand": "FOR ME by gold apple",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000125894/web/696d674d61696e5f34663732643737313337343034356266616466616130316533613466656565648dca629235a3851${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000125894/web/696d67416464315f38656631626232393133613134386235616131313835633761613262343038628dc9992a073d765${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000125894/web/696d67416464325f36666337386139336433363334386562626338343866616239363736643837368dc9992a3442471${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000125894/web/696d67416464335f38663034663139663761336434396530613565363036346563666364366130398dc9992a643c7fd${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "80"
+          ],
+          "currentUnitValue": "80",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "exclusive",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f6578636c7573697665/6c6162656c3634643635626533383633393863663730326431376330618db9a848bfd71f5.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000125894-my-mantra",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 5,
+        "reviewsCount": 1
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 2200,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 0
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 2200,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000019544",
+      "mainVariantItemId": "19000019544",
+      "name": "Peach, Passion fruit, Musk ",
+      "productType": "Духи концентрированные",
+      "type": "Product",
+      "brand": "Zielinski & Rozen",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000019544/web/696d674d61696e8dc83cecc8bb151${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000019544/web/696d67416464318dc83cecc8948e2${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000019544/web/696d67416464328dc83cecc8c4204${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000019544/web/696d67416464338dc83cecc94affc${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 1,
+          "values": [
+            "10"
+          ],
+          "currentUnitValue": "10",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000019544-peach-passion-fruit-musk",
+      "configurable": "False",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.6,
+        "reviewsCount": 229
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 14890,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "loyalty": {
+          "amount": 12656,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "True",
+          "crossPrice": "False",
+          "useDiscount": "False",
+          "discountPercent": 15
+        },
+        "old": "None",
+        "actual": {
+          "currency": "RUB",
+          "amount": 12656,
+          "denominator": 1
+        },
+        "hasLoyalty": "True"
+      },
+      "itemId": "24863300001",
+      "mainVariantItemId": "24863300002",
+      "name": "Good Girl",
+      "productType": "Парфюмерная вода",
+      "type": "Product",
+      "brand": "Carolina Herrera",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/24863300001/web/696d674d61696e8dc83af353d2fe0${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/24863300001/web/696d67416464318dc83af35415bf6${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/24863300001/web/696d67416464328dc83af3547e592${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/24863300001/web/696d67416464338dc83af3540d618${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "30",
+            "50",
+            "80"
+          ],
+          "currentUnitValue": "80",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "hit",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/24863300001-good-girl",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.9,
+        "reviewsCount": 131
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 11380,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 5690,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 50
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 11380,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 5690,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000178455",
+      "mainVariantItemId": "19760313118",
+      "name": "Linen Vetiver",
+      "productType": "Парфюмерная вода",
+      "type": "Product",
+      "brand": "BANANA REPUBLIC",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178455/web/696d674d61696e8dc840acf211d2e${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178455/web/696d67416464318dc840acf2df42f${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178455/web/696d67416464328dc840acf2dfce9${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        },
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000178455/web/696d67416464338dc840acf3077db${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "30",
+            "75",
+            "150"
+          ],
+          "currentUnitValue": "150",
+          "name": "мл"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "BrandLabOrFea",
+          "group": "standard",
+          "resource": {
+            "resourceUrl": {
+              "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e644c61624f72466561/6c6162656c3634646235626264616137303430333935643539633265348db9d7f65d67561.png",
+              "format": [],
+              "screen": []
+            },
+            "resourceType": "image"
+          }
+        },
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "50%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000178455-linen-vetiver",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4.3,
+        "reviewsCount": 39
+      }
+    },
+    {
+      "price": {
+        "regular": {
+          "amount": 6130,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "discount": {
+          "amount": 4291,
+          "currency": "RUB",
+          "denominator": 1
+        },
+        "viewOptions": {
+          "priceFrom": "False",
+          "crossPrice": "True",
+          "useDiscount": "True",
+          "discountPercent": 30
+        },
+        "old": {
+          "currency": "RUB",
+          "amount": 6130,
+          "denominator": 1
+        },
+        "actual": {
+          "currency": "RUB",
+          "amount": 4291,
+          "denominator": 1
+        },
+        "hasLoyalty": "False"
+      },
+      "itemId": "19000131310",
+      "mainVariantItemId": "19000131338",
+      "name": "Café Au Laitt",
+      "productType": "Свеча ароматическая",
+      "type": "Product",
+      "brand": "Vellutier",
+      "imageUrls": [
+        {
+          "url": "https://pcdn.goldapple.ru/p/p/19000131310/web/696d674d61696e8dc83ee3efa4110${screen}.${format}",
+          "format": [
+            "webp",
+            "jpg"
+          ],
+          "screen": [
+            "fullhd"
+          ]
+        }
+      ],
+      "favourite": "False",
+      "attributes": {
+        "units": {
+          "count": 3,
+          "values": [
+            "90",
+            "225",
+            "515"
+          ],
+          "currentUnitValue": "515",
+          "name": "г"
+        },
+        "colors": {
+          "count": 0,
+          "values": [],
+          "name": ""
+        }
+      },
+      "labels": [
+        {
+          "id": "discount",
+          "group": "standard",
+          "backgroundColor": "#FF007E",
+          "text": "30%",
+          "textColor": "#FFFFFF",
+          "textGravity": [
+            "bottom",
+            "middle"
+          ]
+        }
+      ],
+      "isAdult": "False",
+      "inStock": "True",
+      "url": "/19000131310-cafe-au-laitt",
+      "configurable": "True",
+      "needOnlineConsultation": "False",
+      "reviews": {
+        "rating": 4,
+        "reviewsCount": 1
+      },
+      "couponResponse": {
+        "code": "ПРАЗДНИК20",
+        "text": "скидка",
+        "type": "percent",
+        "discountPercent": 20
+      }
+    }
+  ]
+}
