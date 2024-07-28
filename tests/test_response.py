@@ -1,10 +1,7 @@
 import json
-from unittest import mock
-from unittest.mock import patch
 
 import pytest
 
-import src.settings
 from src.response import *
 from src.settings import TEST_TXT_PATH
 

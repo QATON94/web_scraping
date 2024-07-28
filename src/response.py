@@ -15,10 +15,9 @@ def get_response_products(url_head: str, page_count: int) -> list[Perfumery]:
         response = requests.get(url, headers=headers)
         data_json = response.json()
         data_page = data_json["data"]["products"]
-        print(data_page)
         data_products = response_product(data_page)
         data_perfumery.extend(data_products)
-        print(f"page = {count}")
+        print(f"Обработана страница {count}")
     return data_perfumery
 
 
@@ -27,7 +26,6 @@ def response_product(data: list[dict]) -> list[Perfumery]:
     for item in data:
         try:
             url = f'https://goldapple.ru{item["url"]}'
-            print("url=", url)
             product = get_response_product(url)
             perfume = Perfumery(
                 url=url,

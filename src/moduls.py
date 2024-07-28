@@ -1,16 +1,16 @@
 class Perfumery:
 
     def __init__(
-        self,
-        url,
-        name,
-        brand,
-        price,
-        rating,
-        description,
-        instructions,
-        compound,
-        country,
+            self,
+            url,
+            name,
+            brand,
+            price,
+            rating,
+            description,
+            instructions,
+            compound,
+            country,
     ):
         self.url = url
         self.name = name

@@ -31,7 +31,6 @@ def get_response_product(url: str) -> dict[str, str | None]:
     instructions = instructions.replace("<br/>", " ")
     instructions = instructions.replace("<p>", " ")
     instructions = instructions.replace("</p>", " ")
-    # print(instructions)
     text = get_text(instructions)
 
     product["description"] = description
@@ -65,7 +64,6 @@ def get_text(text_html: str) -> dict[str, str | None]:
         '(применение)" value="Text_[1-5]"><!-- --> <!-- --> <div class="\w*">(.*?)</div>',
         text_html,
     )
-    # print(soup)
     data = {"применение": None, "состав": None, "страна происхождения": None}
     application = "применение"
     compound = "состав"

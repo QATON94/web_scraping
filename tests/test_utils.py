@@ -24,6 +24,7 @@ def perfumery_product():
                         'instructions', 'compound', 'country')
     return product
 
+
 def test_get_response_product(url):
     product = get_response_product(url)
     assert product == {'compound': 'Alcohol, parfum (fragrance), aqua (water), linalool, geraniol, '

@@ -1,6 +1,3 @@
-import asyncio
-import time
-
 from src.response import get_response_products
 from src.settings import url_head
 from src.utils import save_csv, get_page_count
