@@ -1,8 +1,13 @@
 import os
+import re
 
 import pytest
+import requests
+from bs4 import BeautifulSoup
 
-from src.utils import *
+from src.moduls import Perfumery
+from src.settings import ROOT_PATH
+from src.utils import get_response_product, get_description, get_text, save_csv, get_page_count
 
 
 @pytest.fixture
@@ -95,4 +100,4 @@ def test_get_page_count():
     url_head = ('https://goldapple.ru/front/api/catalog/products?categoryId=1000000007&cityId='
                 'dd8caeab-c685-4f2a-bf5f-550aca1bbc48&pageNumber=1')
     page_count = get_page_count(url_head)
-    assert page_count == 494
+    assert page_count == 496

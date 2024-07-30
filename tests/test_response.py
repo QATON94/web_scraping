@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from src.response import *
+from src.response import get_response_products, response_product
 from src.settings import TEST_TXT_PATH
 
 
